@@ -1,2 +1,4 @@
 # RepositorioHenry
-Esta es la tarea del modulo 2 del PrepCourse de Henry
+Este repositorio es para guardar las tareas que estan expuestas en el Prep Course de Henry para see Full Stack dev
+Tarea Modulo 2: crear el Repositorio actual 
+Tarea M3: Hacer un archivo HTML
